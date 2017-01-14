@@ -1,0 +1,1 @@
+/home/mikachu/.config/i3/
