@@ -1,4 +1,4 @@
 apt-search pour rechercher des fichiers dans des paquets apt.
 
 Peut être une solution pour les crash avec bumblebee : https://github.com/Bumblebee-Project/Bumblebee/issues/764#issuecomment-234494238
-acpi_osi="!Windows 2015"
+acpi_osi=! acpi_osi="Windows 2009"
